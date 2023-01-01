@@ -2,7 +2,7 @@ This strategy is a simple engulfing pattern strategy dictated by the open and pr
 
 A signal triggers a trade which takes place on the EURUSD currency pair. 
 
-Broker:
+Broker API:
     
       Oanda v20
       
